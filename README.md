@@ -1,17 +1,18 @@
 
-This is the Flight Instruments for Minecraft project by TenshiAmiel.
-https://twitter.com/AmielTenshi/
-https://github.com/tenshiamiel/flightinstruments/
+<img src="https://user-images.githubusercontent.com/125799374/219945030-d953be0e-aa57-4ac9-9cf3-552da9acf4c5.png" width="589" height="94"><br />
+<br />
 
-This is the MOD for Forge and Minecraft
-https://www.minecraft.net
-https://files.minecraftforge.net/
+### What this?
+This is a MOD(modification) program for Minecraft to add flight instruments on your Minecraft.<br />
+<br />
 
-To Install:
-Just put flightinstruments-XX.XX.XX.XXX.jar to your MOD directory.
+### Description:
+https://github.com/tenshiamiel/flightinstruments/wiki<br />
+<br />
 
-To Remove:
-Just remove flightinstruments-XX.XX.XX.XXX.jar from your MOD directory.
-This MOD doesn't change anything about other.
-So That will be all of what you should do.
+### Author:
+This is the Flight Instruments for Minecraft project by TenshiAmiel.<br />
+https://twitter.com/AmielTenshi/<br />
+https://github.com/tenshiamiel/flightinstruments/<br />
+<br />
 
