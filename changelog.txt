@@ -14,5 +14,8 @@ flightinstruments-1.19.3.f003.jar
 flightinstruments-1.19.3.f004.jar
     Bug fix (this still in beta).
 
+flightinstruments-1.19.3.f005.jar
+    Bug fix (this still in beta).
+
 
 ------------------------------------------------------------
