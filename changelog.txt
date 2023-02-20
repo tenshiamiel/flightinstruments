@@ -5,5 +5,9 @@ changelog
 flightinstruments-1.19.3.f001.jar
     The first relase.
 
+flightinstruments-1.19.3.f002.jar
+    Bug fix (this still in beta).
+
+
 
 ------------------------------------------------------------
