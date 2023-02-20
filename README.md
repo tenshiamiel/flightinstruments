@@ -11,7 +11,7 @@ https://github.com/tenshiamiel/flightinstruments/wiki<br />
 <br />
 
 ### Author:
-This is the Flight Instruments for Minecraft project by TenshiAmiel.<br />
+This project made by Amiel.<br />
 https://twitter.com/AmielTenshi/<br />
 https://github.com/tenshiamiel/flightinstruments/<br />
 <br />
