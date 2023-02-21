@@ -17,5 +17,8 @@ flightinstruments-1.19.3.f004.jar
 flightinstruments-1.19.3.f005.jar
     Bug fix (this still in beta).
 
+flightinstruments-1.19.3.f006.jar
+    Add 1000m unit needle on Altimeter.
+    Build environment is moved to Linux.
 
 ------------------------------------------------------------
