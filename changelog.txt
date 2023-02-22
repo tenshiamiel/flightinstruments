@@ -21,4 +21,8 @@ flightinstruments-1.19.3.f006.jar
     Add 1000m unit needle on Altimeter.
     Build environment is moved to Linux.
 
+flightinstruments-1.19.3.f007.jar
+    Add Clock (in MCT:minecraft time), Add GNSS, Clip Upper/Lower value in Variometer, Improve processing performance.
+
+
 ------------------------------------------------------------
